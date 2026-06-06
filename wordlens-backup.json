@@ -301,13 +301,13 @@
     },
     {
       "forgottenCount": 0,
-      "frequency": 1,
+      "frequency": 2,
       "id": "1780747758164_owlwqce",
       "lastReviewed": 1780748796352,
       "rememberedCount": 1,
-      "sentence": "When we first published this research, our most capable frontier models were from the Claude 4 family. This was also the first model family for which we ran a live alignment assessment during training",
+      "sentence": "Alignment",
       "status": "learning",
-      "timestamp": 1780747758164,
+      "timestamp": 1780757688940,
       "translation": "对齐",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
       "word": "alignment"
@@ -379,14 +379,14 @@
     },
     {
       "forgottenCount": 0,
-      "frequency": 1,
+      "frequency": 2,
       "id": "1780749186423_5j4l80d",
       "lastReviewed": 1780749186423,
       "rememberedCount": 0,
-      "sentence": "We ultimately settled on a more OOD training set where the user faces an ethically ambiguous situation in which they can achieve a reasonable goal by violating norms or subverting oversight. The assis",
+      "sentence": "Before we started this research, it was not clear where the misaligned behavior was coming from. Our main two hypotheses were:",
       "status": "learning",
-      "timestamp": 1780749186423,
-      "translation": "在那里；在……情况下",
+      "timestamp": 1780757609616,
+      "translation": "哪里；何处",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
       "word": "where"
     },
@@ -417,5 +417,5 @@
       "word": "Haiku"
     }
   ],
-  "version": 7
+  "version": 8
 }
