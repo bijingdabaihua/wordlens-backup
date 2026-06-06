@@ -238,10 +238,10 @@
       "forgottenCount": 1,
       "frequency": 2,
       "id": "1780746918798_u5dffuo",
-      "lastReviewed": 1780748935248,
-      "rememberedCount": 2,
+      "lastReviewed": 1780751641009,
+      "rememberedCount": 3,
       "sentence": "Last year, we released a case study on agentic misalignment. In experimental scenarios, we showed that AI models from many different developers sometimes took egregiously misaligned actions when they",
-      "status": "learning",
+      "status": "known",
       "timestamp": 1780747183539,
       "translation": "严重地；大量地",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
@@ -262,14 +262,14 @@
     },
     {
       "forgottenCount": 0,
-      "frequency": 1,
+      "frequency": 2,
       "id": "1780747222421_0kycj2f",
       "lastReviewed": 1780748784545,
       "rememberedCount": 1,
       "sentence": "Last year, we released a case study on agentic misalignment. In experimental scenarios, we showed that AI models from many different developers sometimes took egregiously misaligned actions when they",
       "status": "learning",
-      "timestamp": 1780747222421,
-      "translation": "遇到，遭遇",
+      "timestamp": 1780751611736,
+      "translation": "遇到",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
       "word": "encountered"
     },
@@ -277,10 +277,10 @@
       "forgottenCount": 2,
       "frequency": 1,
       "id": "1780747482620_ibh5hjz",
-      "lastReviewed": 1780749611035,
-      "rememberedCount": 2,
+      "lastReviewed": 1780751629316,
+      "rememberedCount": 3,
       "sentence": "Learn English with our expert courses, resources and exam support. Created by the British Council – trusted worldwide for English language teaching and assessment.",
-      "status": "learning",
+      "status": "known",
       "timestamp": 1780747482620,
       "translation": "教学",
       "url": "https://learnenglish.britishcouncil.org/",
@@ -329,8 +329,8 @@
       "forgottenCount": 0,
       "frequency": 3,
       "id": "1780747765743_wl8h241",
-      "lastReviewed": 1780748814698,
-      "rememberedCount": 1,
+      "lastReviewed": 1780751638624,
+      "rememberedCount": 2,
       "sentence": "We ultimately settled on a more OOD training set where the user faces an ethically ambiguous situation in which they can achieve a reasonable goal by violating norms or subverting oversight. The assis",
       "status": "learning",
       "timestamp": 1780749190358,
@@ -339,10 +339,10 @@
       "word": "training"
     },
     {
-      "forgottenCount": 1,
+      "forgottenCount": 3,
       "frequency": 2,
       "id": "1780747890544_nyos6k0",
-      "lastReviewed": 1780748945705,
+      "lastReviewed": 1780751641585,
       "rememberedCount": 1,
       "sentence": "We use agentic misalignment as a case study to highlight some of the techniques we found to be surprisingly effective. Indeed, since Claude Haiku 4.5, every Claude model2 has achieved a perfect score",
       "status": "learning",
@@ -404,5 +404,5 @@
       "word": "developers"
     }
   ],
-  "exportedAt": "2026-06-06T13:12:22.789Z"
+  "exportedAt": "2026-06-06T13:15:17.457Z"
 }
