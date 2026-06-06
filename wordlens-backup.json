@@ -402,7 +402,20 @@
       "translation": "开发者",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
       "word": "developers"
+    },
+    {
+      "forgottenCount": 0,
+      "frequency": 1,
+      "id": "1780756119569_vku25zi",
+      "lastReviewed": 1780756119569,
+      "rememberedCount": 0,
+      "sentence": "To investigate this, we ran a scaled-down version of our post-training pipeline that focuses on alignment data on a Haiku-class (that is, smaller) model and found that the agentic misalignment rate on",
+      "status": "learning",
+      "timestamp": 1780756119569,
+      "translation": "俳句（此处指模型类别名称，意为小型模型）",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "word": "Haiku"
     }
   ],
-  "version": 3
+  "version": 4
 }
