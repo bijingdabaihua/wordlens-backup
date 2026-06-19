@@ -342,8 +342,8 @@
       "forgottenCount": 3,
       "frequency": 2,
       "id": "1780747890544_nyos6k0",
-      "lastReviewed": 1780751641585,
-      "rememberedCount": 1,
+      "lastReviewed": 1781876713353,
+      "rememberedCount": 2,
       "sentence": "We use agentic misalignment as a case study to highlight some of the techniques we found to be surprisingly effective. Indeed, since Claude Haiku 4.5, every Claude model2 has achieved a perfect score",
       "status": "learning",
       "timestamp": 1780748226467,
@@ -415,7 +415,46 @@
       "translation": "俳句（此处指模型类别名称，意为小型模型）",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
       "word": "Haiku"
+    },
+    {
+      "forgottenCount": 0,
+      "frequency": 2,
+      "id": "1780758934312_ei9g5qg",
+      "lastReviewed": 1780758934312,
+      "rememberedCount": 0,
+      "sentence": "git clone https://github.com/bijingdabaihua/wordlens.git\ncd wordlens\nnpm install\nnpm run build",
+      "status": "learning",
+      "timestamp": 1780758941112,
+      "translation": "单词透镜（项目名称）",
+      "url": "https://github.com/bijingdabaihua/wordlens",
+      "word": "WordLens"
+    },
+    {
+      "forgottenCount": 0,
+      "frequency": 1,
+      "id": "1781876658946_78sm0bc",
+      "lastReviewed": 1781876658946,
+      "rememberedCount": 0,
+      "sentence": "But AI models are moving fast—even faster than the runaway robodog that almost rammed into one of our human teams back in August.",
+      "status": "learning",
+      "timestamp": 1781876658946,
+      "translation": "失控的",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "word": "runaway"
+    },
+    {
+      "forgottenCount": 0,
+      "frequency": 1,
+      "id": "1781876699228_iw9wu58",
+      "lastReviewed": 1781876699228,
+      "rememberedCount": 0,
+      "sentence": "In August 2025, we ran an experiment to see how much Claude could help Anthropic employees—who were not robotics experts—perform sophisticated (and amusing) tasks with an off-the-shelf robotic quadrup",
+      "status": "learning",
+      "timestamp": 1781876699228,
+      "translation": "八月",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "word": "August"
     }
   ],
-  "version": 15
+  "version": 16
 }
